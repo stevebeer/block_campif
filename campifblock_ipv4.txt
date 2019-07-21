@@ -1,3 +1,6 @@
 #KPN Interactieve tv
 195.121.69.239
 213.75.170.29
+
+# Luxemburg
+188.93.174.0/24
